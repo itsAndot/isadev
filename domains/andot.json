@@ -1,0 +1,12 @@
+{
+    "description": "Presentation",
+    "repo": "https://github.com/itsAndot/itsandot.github.io",
+    "owner": {
+        "username": "itsAndot",
+        "Discord": "andot",
+        "twitter": "soyandot"
+    },
+    "record": {
+        "CNAME": "itsandot.github.io"
+    }
+}
